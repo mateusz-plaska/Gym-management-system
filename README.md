@@ -1,7 +1,7 @@
 
 # Gym management system
 
-This is a console appliaction of gym management system.
+This is an console appliaction of gym management system.
 
 
 ## Install and open
